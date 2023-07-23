@@ -66,6 +66,6 @@ Follow following steps:
 6. This will appear:
  ![Home Page](https://github.com/HamzaAR81/Earth_Quake_Prediction_web_app/blob/29d0e64578d5fb3c7628aa243421d020d429bbf2/Templete/Web_App.png.png)
 
-8. Now, fill the options and click predict.
+8. Now, fill the options and click result.
 
 # Thank You!
