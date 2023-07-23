@@ -45,7 +45,7 @@ Dataset Source Link :
 Follow following steps:
 1. Go to  **Command Prompt**
 
-![Command Prompt Page]([https://github.com/Ahmad10Raza/Diamond-Price-Prediction/blob/master/templates/Images/home.png](https://github.com/HamzaAR81/Earth_Quake_Prediction_web_app/blob/29d0e64578d5fb3c7628aa243421d020d429bbf2/Templete/cmd.png.png))
+![Command Prompt Page](https://github.com/HamzaAR81/Earth_Quake_Prediction_web_app/blob/29d0e64578d5fb3c7628aa243421d020d429bbf2/Templete/cmd.png.png)
 
 2. Write in command prompt
     ```python
