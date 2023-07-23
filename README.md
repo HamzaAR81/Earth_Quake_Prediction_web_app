@@ -61,7 +61,7 @@ Follow following steps:
 
 5. Then type
     ```python
-    streamlit run <path of the Earth Quake prediction Web App.py>
+    streamlit run <path of the Earth Quake prediction Web App.py.py>
 
 6. This will appear:
  ![Home Page](https://github.com/HamzaAR81/Earth_Quake_Prediction_web_app/blob/29d0e64578d5fb3c7628aa243421d020d429bbf2/Templete/Web_App.png.png)
